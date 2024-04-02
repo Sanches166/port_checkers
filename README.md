@@ -3,7 +3,7 @@ This repository contains scripts that will help you track scanning and connectio
 
 ## Содержание
 - [Technologies](#technologies)
-- [Develop](#develope)
+- [Develop](#develop)
 - [Team](#team)
 
 ## Technologies
@@ -21,13 +21,6 @@ This repository contains scripts that will help you track scanning and connectio
 $ npm i your-awesome-plugin-name
 ```
 
-И добавьте в свой проект:
-```typescript
-import { hi } from "your-awesome-plugin-name";
-
-hi(); // Выведет в консоль "Привет!"
-```
-
 ### Requirements
 Для установки зависимостей, выполните команду:
 ```sh
@@ -35,9 +28,8 @@ $ npm i
 ```
 
 ## Team
-Оставьте пользователям контакты и инструкции, как связаться с командой разработки.
 
-- [Богдан Звягинцев](tg://resolve?domain=bzvyagintsev) — Front-End Engineer
+- Alexander Mandrykin - Python Developer
 
 ## Sources
-Если вы чем-то вдохновлялись, расскажите об этом: где брали идеи, какие туториалы смотрели, ссылки на исходники кода. 
+These scripts were created to conduct research during the course of the diploma. They helped to collect personal statistics of server accesses and to identify the most popular ports to access. 
